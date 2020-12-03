@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import Skill from './components/Skill.js'
 import EduTitle from './components/EduTitle.js'
 import WorkHistory from './components/WorkHistory.js'
